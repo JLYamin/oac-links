@@ -10,4 +10,5 @@ Links interessantes pra matéria de Organização e Arquitetura de Computadores
 
 ## Lempel-Ziv 78
 [Wikipedia com pseudo-código](https://pt.wikipedia.org/wiki/LZ78)
+
 [Outro pseudo-código](http://www.stringology.org/DataCompression/lz78/index_en.html)
